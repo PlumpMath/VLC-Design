@@ -1,3 +1,3 @@
 # VLC-Design
-This repository is a winform design make with visual studio.
-Si vous avez besoin du fonctionnement de la fenêtre, veuillez continuer le codage sur Visual Studio avec c #.
+## This repository is a winform design make with visual studio.
+## If you need the operation of the window, please continue coding on Visual Studio with c #.
